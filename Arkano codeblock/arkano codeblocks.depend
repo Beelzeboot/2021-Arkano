@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1632721112 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\arma.cpp
+	<iostream>
+	"arma.h"
+	"rlutil.h"
+
+1634791814 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\arma.h
+
+1571584339 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1638773115 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\armadura.cpp
+	<iostream>
+	"armadura.h"
+	"rlutil.h"
+
+1638773115 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\armadura.h
+
+1658610612 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\funciones.cpp
+	"funciones.h"
+
+1645666871 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\funciones.h
+
+1658718313 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\brian.cpp
+	"Brian.h"
+	<iostream>
+
+1656449277 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\brian.h
+	<SFML\Graphics.hpp>
+	"personaje.h"
+
+1632720858 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\personaje.h
+	"arma.h"
+	"armadura.h"
+
+1658714553 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\enemigo.cpp
+	"Enemigo.h"
+	<iostream>
+
+1658711046 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\enemigo.h
+	<SFML\Graphics.hpp>
+	"personaje.h"
+
+1658611146 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\escenario.cpp
+	"Escenario.h"
+
+1658611146 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\escenario.h
+	<SFML\Graphics.hpp>
+
+1658718175 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\gameplay.cpp
+	"gameplay.h"
+
+1658713608 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\gameplay.h
+	<SFML\Graphics.hpp>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<stdlib.h>
+	"personaje.h"
+	"partidas.h"
+	"texto.h"
+	"Escenario.h"
+	"Enemigo.h"
+	"Items.h"
+	"Brian.h"
+	"funciones.h"
+
+1646161921 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\partidas.h
+	<SFML\Graphics.hpp>
+
+1658611173 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\texto.h
+	<SFML\Graphics.hpp>
+	<iostream>
+
+1639067856 d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\items.h
+	<SFML\Graphics.hpp>
+
+1639067836 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\items.cpp
+	"Items.h"
+
+1658610213 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"gameplay.h"
+
+1658611673 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\partidas.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	<cstring>
+	"personaje.h"
+	"rlutil.h"
+	"partidas.h"
+
+1658611146 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\texto.cpp
+	<SFML\Graphics.hpp>
+	"texto.h"
+
+1668565794 source:d:\ejercicios\codeblocks\arkano codeblocks\arkano codeblock\personaje.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"personaje.h"
+	"rlutil.h"
+
